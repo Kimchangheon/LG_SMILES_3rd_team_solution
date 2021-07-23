@@ -1,3 +1,8 @@
+# LG_SMILES_3rd_team_solution
+랩요정들팀의 솔루션 입니다. 
+https://github.com/dacon-ai/LG_SMILES_3rd
+https://sites.google.com/view/unist-labelves/
+
 # LG_SMILES_competition
 This is the source code for LG-HACKATHON SMILE COMPETITION  hosted by [DACON](https://dacon.io/competitions/official/235640/leaderboard/). The main objective of the competition was to predict the SMILES sequence given a chemical structure image. 
 Our prediction achieved 0.99567 in private leaderboard(Tanimoto-Similarity based)
